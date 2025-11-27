@@ -95,3 +95,20 @@ body{
     background: white;
     border: 4px solid red;
 }
+
+#lateral{
+    width: 20%;
+    min-height: 600px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 10px;
+    border: 4px solid blue;
+}
+
+#lateral .block_aside{
+    display: block;
+    width: 90%;
+    margin: 5px auto;
+    padding: 10px;
+    border: 2px solid green;
+}
